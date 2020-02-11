@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+
+    <string name="toolbar_text">Login</string>
+    <string name="action_favorite">Subscriptions</string>
+    <string name="action_settings"/>
+
+    <string-array name="chatGroups">
+        <item>General</item>
+        <item>Economy</item>
+        <item>Engineering</item>
+        <item>Programming</item>
+    </string-array>
+
+    <string-array name="chatGroupsFablab">
+        <item>General</item>
+        <item>3DPrint</item>
+        <item>Drones</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
